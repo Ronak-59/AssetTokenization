@@ -2,7 +2,7 @@
 
 ## Introduction - Problem Statement:
 
-Financial markets are full of different type of assets: stocks, CO2 emission credits, real estate, gold, lithium, oil, etc. However, most of these assets are hard to subdivide or transfer from one market participant to another. Due to this complexity, actors prefer trading papers that represent these assets. The main problem?—?it’s time consuming to track, exchange, liquidate and settle, and the process introduces substantive operational risk.
+Financial markets are full of different type of assets: stocks, CO2 emission credits, real estate, gold, lithium, oil, etc. However, most of these assets are hard to subdivide or transfer from one market participant to another. Due to this complexity, actors prefer trading papers that represent these assets. The main problem?â€”?itâ€™s time consuming to track, exchange, liquidate and settle, and the process introduces substantive operational risk.
 
 ## Our Solution:
 
@@ -14,7 +14,7 @@ Imagine you can partly own/invest in a piece of land for $10...
 
 Our project's main aim is to provide faster liquidity of assets, thereby ensuring quick settlement of the transactions and a secure "Ownership Ledger".
 
-![Presentation Slides](https://docs.google.com/presentation/d/1JHVeJI0HzG8AeMS6eG0OdyHZaMs3GfbkE81jnGqjtDo/present)
+[Click to view Presentation Slides](https://docs.google.com/presentation/d/1JHVeJI0HzG8AeMS6eG0OdyHZaMs3GfbkE81jnGqjtDo/present)
 
 ![Architecture Diagram](Screenshots/architecture.JPG)
 
